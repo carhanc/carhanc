@@ -38,7 +38,7 @@ Beyond coding, I enjoy playing basketball and tennis with my brother, finding ex
   <br />
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=carhanc&theme=nord&column=8" alt="Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=carhanc&theme=nord&column=8" alt="Trophies" align="center" />
     </a>
   </div>
 </div>
