@@ -54,10 +54,6 @@ Beyond coding, I enjoy playing basketball and tennis with my brother, finding ex
   <a href="https://reactjs.org/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-React-2e3440?logoColor=white&logo=React&style=for-the-badge&color=purple" />
   </a>
-  </a>
-      <a href="https://getbootstrap.com/" target="_blank" title="Learn More">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-TypeScript-2e3440?logoColor=white&logo=TypeScript&style=for-the-badge&color=2b7489" />
   </a>
