@@ -54,6 +54,9 @@ Beyond coding, I enjoy playing basketball and tennis with my brother, finding ex
   <a href="https://reactjs.org/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-React-2e3440?logoColor=white&logo=React&style=for-the-badge&color=purple" />
   </a>
+  <a href="https://nextjs.org/" target="_blank" title="Learn More">
+    <img src="https://img.shields.io/badge/Next?logoColor=white&logo=Next&style=for-the-badge&color=black" />
+  </a>
   </a>
       <a href="https://getbootstrap.com/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -66,13 +69,6 @@ Beyond coding, I enjoy playing basketball and tennis with my brother, finding ex
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=white&logo=html5&style=for-the-badge&color=e34c26" />
-  </a>
-  </a>
-      <a href="https://getbootstrap.com/" target="_blank" title="Learn More">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="Learn More">
-    <img src="https://img.shields.io/badge/-CSS3-2e3440?logoColor=white&logo=CSS3&style=for-the-badge&color=563d7c" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-CSS3-2e3440?logoColor=white&logo=CSS3&style=for-the-badge&color=563d7c" />
