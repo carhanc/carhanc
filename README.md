@@ -15,6 +15,25 @@ Hey There! I'm a 13 year old student [@Homestead High School](https://hhs.fuhsd.
 
 Beyond coding, I enjoy playing basketball and tennis with my brother, finding excitement and joy in these sports that complement my creative pursuits.
 
+## :game_die: Join my community Connect Four game!
+![](https://img.shields.io/badge/Moves%20played-11812-blue)
+![](https://img.shields.io/badge/Completed%20games-589-brightgreen)
+![](https://img.shields.io/badge/Total%20players-1347-orange)
+
+Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
+
+It is the **red** team's turn to play.
+
+Tired of waiting? [Request a move](https://github.com/thedev132/carhanc/issues/new?title=connect4%7Cdrop%7Cred%7Cai&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) from Connect4Bot :robot: 
+
+Interested in how everything works? [Click here](https://github.com/carhanc/carhanc/tree/main/connect4) to read up on what's happening behind the scenes.
+
+**:alarm_clock: Most recent moves**
+
+
+**:trophy: Leaderboard: Top 10 players with the most game winning moves :1st_place_medal:**
+
+
 <br />
 
 <div align="center">
