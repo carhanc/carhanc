@@ -6,7 +6,7 @@
 
 # Hey There! <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="40" /> 
 
-Hey There! I'm a 13 year old student [@Homestead High School](https://hhs.fuhsd.org/). I am currently a freshman in school, pursuing my interests in computer science and biology. With a profound interest in the fascinating world of science, I also am a Front End Developer from California, USA. Utilizing my problem-solving skills, I create beautiful websites using HTML, CSS, mutiple frameworks of JavaScript, and Tailwind.
+Hey There! I'm a 14 year old student [@Homestead High School](https://hhs.fuhsd.org/). I am currently a freshman in school, pursuing my interests in computer science and biology. With a profound interest in the fascinating world of science, I also am a Front End Developer from California, USA. Utilizing my problem-solving skills, I create beautiful websites using HTML, CSS, mutiple frameworks of JavaScript, and Tailwind.
 
 Beyond coding, I enjoy playing basketball and tennis with my brother, finding excitement and joy in these sports that complement my creative pursuits.
 
